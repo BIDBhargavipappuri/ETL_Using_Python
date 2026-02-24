@@ -23,6 +23,10 @@ ETL Pipeline Implementation and API Data Handling
 
 • However, direct insertion posed challenges due to the hierarchical nature of JSON objects, leading to incomplete data population across table columns.
 
-•	To overcome this, Python scripts were used to parse and transform the nested JSON, converting selected columns into the required data formats for seamless integration. 
+•	To overcome this, Python scripts were used to parse and transform the nested JSON, converting selected columns into the required data formats for seamless integration.
+
+•Additional transformations ensured structured storage(implicitly define data type of each extracted JSON column), while error-handling mechanisms were incorporated to manage inconsistencies and API failures.
+
+ 
 
 • Additional transformations ensured structured storage(implicitly define data type of each extracted JSON column), while error-handling mechanisms were incorporated to manage inconsistencies and API failures.
