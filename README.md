@@ -35,7 +35,7 @@ This is the project which I handled while working in DELL.
 
 • In real time I used Apache Airflow to schedule the python code to run every day and make the power BI report updated .
 
-• Its a very good experience developing python code using copilot- code assistatn, I was not able to do this all in 1 day, but took some time to learn how this access works, creating subscriptions,adding my team members. I did multiple changes in the python code using copiiot to acheive expected reuslt, did changes  yml file used .
+• Its a very good experience developing python code using copilot- code assistant, I was not able to do this all in 1 day, but took some time to learn how this access works, creating subscriptions,adding my team members. I did multiple changes in the python code using copiiot to acheive expected reuslt, did changes  yml file used .
 
 
 
