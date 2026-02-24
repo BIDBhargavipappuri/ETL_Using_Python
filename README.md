@@ -30,3 +30,5 @@ This is the project which I handled while working in DELL.
 •Additional transformations ensured structured storage(implicitly define data type of each extracted JSON column), while error-handling mechanisms were incorporated to manage inconsistencies and API failures.
 
 •	By implementing these strategies, the ETL pipeline successfully handled API authentication, data retrieval, transformation, and structured storage in SQL, ensuring efficiency and compliance with enhanced security measures.
+
+. I didnt upload the code which i used in my real use case , just took a sample code with help of copilot. 
