@@ -28,7 +28,3 @@ ETL Pipeline Implementation and API Data Handling
 •Additional transformations ensured structured storage(implicitly define data type of each extracted JSON column), while error-handling mechanisms were incorporated to manage inconsistencies and API failures.
 
 •	By implementing these strategies, the ETL pipeline successfully handled API authentication, data retrieval, transformation, and structured storage in SQL, ensuring efficiency and compliance with enhanced security measures.
-
- 
-
-• Additional transformations ensured structured storage(implicitly define data type of each extracted JSON column), while error-handling mechanisms were incorporated to manage inconsistencies and API failures.
