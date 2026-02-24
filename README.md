@@ -31,4 +31,9 @@ This is the project which I handled while working in DELL.
 
 •	By implementing these strategies, the ETL pipeline successfully handled API authentication, data retrieval, transformation, and structured storage in SQL, ensuring efficiency and compliance with enhanced security measures.
 
-. I didnt upload the code which i used in my real use case , just took a sample code with help of copilot. 
+• I didnt upload the code which i used in my real use case , just took a sample code with help of copilot. 
+
+•In real time I used Apache Airflow to schedule the python code to run every day and make the power BI report updated .
+
+
+
