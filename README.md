@@ -37,7 +37,7 @@ This is the project which I handled while working in DELL.
 
 • Its a very good experience developing python code using copilot- code assistant, I was not able to do this all in 1 day, but took some time to learn how this access works, creating subscriptions,getting approved the subscription ,adding  team members. 
 
-• I did multiple changes/refinements in the python code using copiiot , multiple times to acheive expected reuslt, did changes  YAML  file used to configure apache spark.
+• I did multiple changes/refinements in the python code using copiiot , multiple times to acheive expected reuslt, did changes  YAML  file used to configure Apache spark.
 
 
 
