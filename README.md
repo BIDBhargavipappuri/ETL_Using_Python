@@ -7,7 +7,7 @@ This is the project which I handled while working in DELL.
 
 •	To mitigate this issue, Python code was leveraged to handle API requests efficiently and streamline the ETL process. Due to advancements in AI security, Dell implemented stricter controls through the High-Value Asset (HVA) model, transitioning all API sources to an Online Subscription API Gateway. 
 
-This shift was aimed at preventing unauthorized access by third parties or internal users.
+•This shift was aimed at preventing unauthorized access by third parties or internal users.
 
 # Authentication and Data Retrieval- 
 
